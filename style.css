@@ -1,0 +1,33 @@
+h2 {
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dotted;
+}
+
+body {
+    background-image: url(R.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4 {
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: outset;
+    border-bottom-color: yellow;
+    border-top-color: red;
+    border-left-color: blue;
+    border-right-color: white;
+    
+}
+
+h2:hover {
+    color: blue; 
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    font-style: italic;
+}
